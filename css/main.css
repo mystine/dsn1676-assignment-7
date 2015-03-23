@@ -1,0 +1,10 @@
+html {
+  background-color: #e2e2e2;
+}
+
+body {
+  margin: 2em auto;
+  max-width: 35em;
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
